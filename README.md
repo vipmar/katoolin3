@@ -1,4 +1,4 @@
-# katoolin3
+# katoolin3 By Sabirano Kali LInux Tools 2021
 Katoolin3 brings all programs available in Kali Linux to Debian and Ubuntu.
 
 ### Description
